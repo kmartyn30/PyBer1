@@ -23,11 +23,26 @@ Next, Omar calculated the total fare for each of the three types to be compared 
 
 Another part of the assingment was based on the average fare per ride for the Rural cities it was 34.623440 which was the highest correlated to suburban with 30.970128 and urban with 24.525772 the lowerest. The average fare per driver in the rural area was the least amount 18, secondly suburban area 36 and final the urban cities was 66.  
   
+Omar's team wanted to determine the fare sum by the three types of city regions rural, suburban and urban by date in the year 2019 from January to April. 
+They realized that the Rural area fare sum was generated only once for 43.69; suburban citites achieved four times the amounts of 47.74,24.07,25,56 and 31.15. Finally urban cities matched four sum fares of 37.91, 7.57, 10.75, 5.42, 12.31 as yu can see in the table below for the rides that were take on January 1st 2019 for the various three regions. He was able to capute this information using a pivot table. 
   
   
-  
+  #Sum Fares Pivot 
+  ![2022-09-10 14 49 28](https://user-images.githubusercontent.com/107796290/189497547-0f91d8e7-8169-4f54-a6a6-226ae90d0738.png)
 
-#Total Average Fare per ride in each city type:
+
+# Fare by Types From January to April 2019 for Rural, Suburban, Urban Cites
+
+![2022-09-10 14 51 35](https://user-images.githubusercontent.com/107796290/189497634-3c7c48c8-e6dd-48c6-b565-644140a45bb3.png)
+
+
+#Weekly Fare from January to April 2019 for Rural, Suburban, Urban Cites
+![2022-09-10 14 52 03](https://user-images.githubusercontent.com/107796290/189497665-b05ec5a4-8414-4ad0-a377-b418a10350cc.png)
+
+Total Fare by City Type graph for Rural, Suburban, Urban Cites
+
+![2022-09-10 14 54 43](https://user-images.githubusercontent.com/107796290/189497732-8dcdc414-e01d-4c84-ae23-b5653d053c35.png)
+
 
 
 Another comparison that Omar reflected on was the driver count within the three regions demonstrated in the tables. The leading city driver count for the Urban area cities were in the lead South Miichelleport with a driver count of 72, then a dip to 57 driver count by Port Samanthamouth. Trailing behind in third place was South Jacks with a 46 driver count, to follow Rodnetfourt 34 and Lake Jonathanshire driver count 5. One indicator to the success was the fare was moderately priced. This is represented in the table last two columns below. 
