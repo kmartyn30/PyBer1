@@ -1,4 +1,4 @@
-Additionally, Omar ###PyBer Analysis
+PyBer Analysis
 
 *Purpose of the New Analysis:
 
@@ -61,18 +61,6 @@ Total Fare by City Type graph for Rural, Suburban, Urban Cites
 
 It is suggested for the three disparities among the Urban, Suburban, and Rural cities based on the overview of analysis in order to keep cost down and the drivers and rides conducive to a higher overhead they would require to review their weekly fare in the rural cities due to the lower rides but highest fare. In the Urban cities it would be recommended due to being the leading city driver count for the Urban area cities were in the lead South Miichelleport with a driver count of 72, then a dip to 57 drivers count by Port Samanthamouth. One indicator to the success was the fare was moderately priced so it should continue the momentum and review any cities that may require an overview to increase rides, drives with a moderate cost in mind. The rural cities with the lower driver and ride count should review their operational service of marketing in those two areas with the mindset that if they increase the price, they possible would have lower fares similarly to that of the suburban cities. showed the average fare per driver in each of the three regions, urban cities generated 603.85 which paralleled the higher total rides total drivers and total fare to implicate higher overall statistics. Secondly was the suburban cities total average fare per driver received 537.68 and lastly the rural cities average fare per driver was 240.44 which was on the lower spectrum.
 ![image](https://user-images.githubusercontent.com/107796290/189498596-e4cf43dd-d380-49ea-b7f7-11cd48a83c1c.png)
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
