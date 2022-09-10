@@ -15,13 +15,16 @@ Suburban City sample:
 Rural City sample:
 ![2022-09-10 14 08 08](https://user-images.githubusercontent.com/107796290/189496209-e244d865-3ee7-41a5-acf7-452a2f60d725.png)
 
-As Omar reviewed the total rides for each of the cities based on topography, urban, suburban and rural for the total rides by city. He calculated that the Urban cities total rides were 1,625, suburban cities rides were 625, rural cities were 125 in total respectively. He then calculated the total drivers for each city type. He found the corelelation to the rides and total drivers were similar in ranking, urban cities had 66 total drivers, suburban 36 and the rural region 18 total drives. 
-#Total rides by city type:
-![2022-09-10 14 15 31](https://user-images.githubusercontent.com/107796290/189496451-b451d109-e5d0-4b39-9e96-5d03bf07f0f5.png)
-#Total drivers by city type:
-![2022-09-10 14 16 47](https://user-images.githubusercontent.com/107796290/189496486-b9f4986f-2227-4dd8-a52e-ae794254796f.png)
+As Omar reviewed the total rides for each of the cities based on topography, urban, suburban and rural for the total rides by city. He calculated that the Urban cities total rides were 1,625, suburban cities rides were 625, rural cities were 125 in total respectively. He then calculated the total drivers for each city type. He found the corelelation to the rides and total drivers were similar in ranking, urban cities had 66 total drivers, suburban 36 and the rural region 18 total drives. You can review the tables to see the marginal differences in rides. 
+Next, Omar calculated the total fare for each of the three types to be compared by the fare. In the urban cities the total fare was 39,854.38 which was significantly higher than the suburban of 19,356.33 and rural cities 4,327.93. Them Omar created form the data provided the average fare per ride for each of the regions. The average fare in the Rural cities were 34.623440 moderately higher than both the surburban 30.970128 and 24.525772 respectively as noted in the tables. Addititally he showed the average fare per driver in each of the three regions, urban cities generated 603.85 which paralleled the higher total rides total drivers and total fare to implicate higher overall statistics. Secondly was the suburban cities total average fare per driver received 537.68 and lastly the rural cities average fare per driver was 240.44 which was on the lower spectrum. 
 
-  Next, Omar calculated the total fare for each of the three types to be compared by the fare. In the urban cities the total fare was 39,854.38 which was significantly higher than the suburban of 19,356.33 and rural cities 4,327.93. Them Omar created form the data provided the average fare per ride for each of the regions. 
+![2022-09-10 14 27 11](https://user-images.githubusercontent.com/107796290/189496847-6cfd5ae5-b4f3-46cb-9995-2d885007aea7.png)
+
+
+
+  
+  
+  
   
 
 #Total Average Fare per ride in each city type:
