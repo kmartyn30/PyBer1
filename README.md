@@ -18,11 +18,11 @@ Rural City sample:
 ![2022-09-10 14 08 08](https://user-images.githubusercontent.com/107796290/189496209-e244d865-3ee7-41a5-acf7-452a2f60d725.png)
 
   As Omar reviewed the total rides for each of the cities based on topography, urban, suburban and rural for the total rides by city. He calculated that the Urban cities total rides were 1,625, suburban cities rides were 625, rural cities were 125 in total respectively. He then calculated the total drivers for each city type. He found the corelelation to the rides and total drivers were similar in ranking, urban cities had 66 total drivers, suburban 36 and the rural region 18 total drives. You can review the tables to see the marginal differences in rides. 
-  Next, Omar calculated the total fare for each of the three types to be compared by the fare. In the urban cities the total fare was 39,854.38 which was significantly higher than the suburban of 19,356.33 and rural cities 4,327.93. Them Omar created form the data provided the average fare per ride for each of the regions. The average fare in the Rural cities were 34.623440 moderately higher than both the surburban 30.970128 and 24.525772 respectively as noted in the tables. Addititally he showed the average fare per driver in each of the three regions, urban cities generated 603.85 which paralleled the higher total rides total drivers and total fare to implicate higher overall statistics. Secondly was the suburban cities total average fare per driver received 537.68 and lastly the rural cities average fare per driver was 240.44 which was on the lower spectrum. 
+  Next, Omar calculated the total fare for each of the three types to be compared by the fare. In the urban cities the total fare was 39,854.38 which was significantly higher than the suburban of 19,356.33 and rural cities 4,327.93. Them Omar created form the data provided the average fare per ride for each of the regions. The average fare in the Rural cities were 34.623440 moderately higher than both the surburban 30.970128 and 24.525772 respectively as noted in the tables. 
 
 ![2022-09-10 14 40 37](https://user-images.githubusercontent.com/107796290/189497281-3f7d5eaf-a56b-4e19-b3ae-cf173adb400c.png)
 
-
+Addititally he showed the average fare per driver in each of the three regions, urban cities generated 603.85 which paralleled the higher total rides total drivers and total fare to implicate higher overall statistics. Secondly was the suburban cities total average fare per driver received 537.68 and lastly the rural cities average fare per driver was 240.44 which was on the lower spectrum. This is indicated in the last column. 
 
 ![2022-09-10 14 27 11](https://user-images.githubusercontent.com/107796290/189496847-6cfd5ae5-b4f3-46cb-9995-2d885007aea7.png)
 
@@ -36,28 +36,27 @@ They realized that the Rural area fare sum was generated only once for 43.69; su
   #Sum Fares Pivot 
   ![2022-09-10 14 49 28](https://user-images.githubusercontent.com/107796290/189497547-0f91d8e7-8169-4f54-a6a6-226ae90d0738.png)
 
+Rural, Suburban and urban table for the four months provide a sample to the activity for the three regional types. As you can see the rural area had no acitivity, suburan and urban were active with rides and generating a fare.
 
 # Fare by Types From January to April 2019 for Rural, Suburban, Urban Cites
 
 ![2022-09-10 14 51 35](https://user-images.githubusercontent.com/107796290/189497634-3c7c48c8-e6dd-48c6-b565-644140a45bb3.png)
 
+The weekly fare form January to April 2019 provided a clear overview for the three type cities. 
 
 #Weekly Fare from January to April 2019 for Rural, Suburban, Urban Cites
 ![2022-09-10 14 52 03](https://user-images.githubusercontent.com/107796290/189497665-b05ec5a4-8414-4ad0-a377-b418a10350cc.png)
+
+
+
+In the multi-line graph that Omar created to dipicted as a visual for the "tota; Fare by City Type", x axis represents the fare dollars (USD) by the range of 0 to 2,500. The months were January to April of the year 2019. The key is city types which is represented by the green line for urban; suburban represeented by the orange color line and lastly the blue line is the rural cities. 
+
 
 Total Fare by City Type graph for Rural, Suburban, Urban Cites
 
 ![2022-09-10 14 54 43](https://user-images.githubusercontent.com/107796290/189497732-8dcdc414-e01d-4c84-ae23-b5653d053c35.png)
 
 
-
-
-
-
-
-
-
-
 ***Business recommendations:
 
-Is is suggested for the three disparies among the Urban, Suburban, and Rural cities based on the overview of analysis in order to keep cost down and the drivers and rides condusive to a higher overhead they would require to review their weekly fare in the rural cities due to the lower rides but highest fare. In the Urban cities it would be recommented due to being the leading city driver count for the Urban area cities were in the lead South Miichelleport with a driver count of 72, then a dip to 57 driver count by Port Samanthamouth. One indicator to the success was the fare was moderately priced so it should continue the momentum and review any cities that may require an overview to increase rides, drives with a moderate cost in mind. The Suburban cities with the lower driver and ride count should review their operational service of maketing in those two areas with the mindset that if they increase the price they possible would have lower fares similarly to that of the rural cities.
+Is is suggested for the three disparies among the Urban, Suburban, and Rural cities based on the overview of analysis in order to keep cost down and the drivers and rides condusive to a higher overhead they would require to review their weekly fare in the rural cities due to the lower rides but highest fare. In the Urban cities it would be recommented due to being the leading city driver count for the Urban area cities were in the lead South Miichelleport with a driver count of 72, then a dip to 57 driver count by Port Samanthamouth. One indicator to the success was the fare was moderately priced so it should continue the momentum and review any cities that may require an overview to increase rides, drives with a moderate cost in mind. The rural cities with the lower driver and ride count should review their operational service of maketing in those two areas with the mindset that if they increase the price they possible would have lower fares similarly to that of the suburban cities.
