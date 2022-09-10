@@ -21,7 +21,7 @@ Next, Omar calculated the total fare for each of the three types to be compared 
 ![2022-09-10 14 27 11](https://user-images.githubusercontent.com/107796290/189496847-6cfd5ae5-b4f3-46cb-9995-2d885007aea7.png)
 
 
-
+Another part of the assingment was based on the average fare per ride for the Rural cities it was 34.623440 which was the highest correlated to suburban with 30.970128 and urban with 24.525772 the lowerest. The average fare per driver in the rural area was the least amount 18, secondly suburban area 36 and final the urban cities was 66.  
   
   
   
@@ -30,7 +30,8 @@ Next, Omar calculated the total fare for each of the three types to be compared 
 #Total Average Fare per ride in each city type:
 
 
-Another comparison that Omar reflected on was the driver count within the three regions demonstrated in the tables. The leading city driver count for the Urban area cities were in the lead South Miichelleport with a driver count of 72, then a dip to 57 driver count by Port Samanthamouth. Trailing behind in third place was South Jacks with a 46 driver count, to follow Rodnetfourt 34 and Lake Jonathanshire driver count 5. One indicator to the success was the fare was moderately priced.
+Another comparison that Omar reflected on was the driver count within the three regions demonstrated in the tables. The leading city driver count for the Urban area cities were in the lead South Miichelleport with a driver count of 72, then a dip to 57 driver count by Port Samanthamouth. Trailing behind in third place was South Jacks with a 46 driver count, to follow Rodnetfourt 34 and Lake Jonathanshire driver count 5. One indicator to the success was the fare was moderately priced. This is represented in the table last two columns below. 
+![2022-09-10 14 40 37](https://user-images.githubusercontent.com/107796290/189497281-3f7d5eaf-a56b-4e19-b3ae-cf173adb400c.png)
 
 
 An additional note, the rural cities divier cout was exptremely low indicated form the top four sample cities Randellchester diver count was 9, North Holly was 8, Michaelberg was 6, Lake Latoyabury was 4 diver count. Omar speculated that the low drive count was due to the respective cost involved in the rural cities.
